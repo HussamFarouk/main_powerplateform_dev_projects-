@@ -1,0 +1,12 @@
+{
+  "appId": "8bafa0ea-0928-4733-9099-07d21ebd5bee",
+  "appDisplayName": "demo-reading-data-from-azure-sample",
+  "description": null,
+  "environmentId": "511c3a16-7038-46e5-a5e7-1d4c6250a923",
+  "buildPath": "./dist",
+  "buildEntryPoint": "index.html",
+  "logoPath": "Default",
+  "localAppUrl": "http://localhost:3000/",
+  "connectionReferences": {},
+  "databaseReferences": {}
+}
